@@ -12,6 +12,8 @@ poziom: studia I i II stopnia
 poziom_en: first- and second-cycle studies
 opis: "Rachunek prawdopodobieństwa i procesy stochastyczne w zastosowaniu do ubezpieczeń i rynków finansowych: wycena instrumentów finansowych, matematyka ubezpieczeń życiowych i majątkowych, ocena ryzyka."
 opis_en: "Probability and stochastic processes applied to insurance and financial markets: pricing financial instruments, life and non-life insurance mathematics, risk assessment."
+haslo: "Ryzyko policzone matematycznie"
+haslo_en: "Risk, worked out mathematically"
 zaklad: teoria-prawdopodobienstwa
 opiekunowie:
   - imie_nazwisko: Marek Arendarczyk
