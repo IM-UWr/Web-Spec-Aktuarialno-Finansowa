@@ -1,0 +1,55 @@
+{
+  "kierunek": "matematyka",
+  "poziom": "studia I i II stopnia",
+  "poziom_en": "first- and second-cycle studies",
+  "opis": "Rachunek prawdopodobieństwa i procesy stochastyczne w zastosowaniu do ubezpieczeń i rynków finansowych: wycena instrumentów finansowych, matematyka ubezpieczeń życiowych i majątkowych, ocena ryzyka.",
+  "opis_en": "Probability and stochastic processes applied to insurance and financial markets: pricing financial instruments, life and non-life insurance mathematics, risk assessment.",
+  "haslo": "Ryzyko policzone matematycznie",
+  "haslo_en": "Risk, worked out mathematically",
+  "skrot": "MAF",
+  "zaklad": "teoria-prawdopodobienstwa",
+  "opiekunowie": [
+    {
+      "imie_nazwisko": "Marek Arendarczyk",
+      "rola": "Opiekun specjalności",
+      "rola_en": "Coordinator"
+    }
+  ],
+  "seminaria": [
+    "prawdopodobienstwo"
+  ],
+  "wygaszana": false,
+  "kolejnosc": 3,
+  "kafelek_dla_kogo": "Dla osób zainteresowanych ryzykiem, ubezpieczeniami i rynkami finansowymi.",
+  "kafelek_dla_kogo_en": "For those interested in risk, insurance and financial markets.",
+  "kafelek_kariera": "Sektor finansowy i ubezpieczeniowy, np. praca aktuariusza lub specjalisty ds. ryzyka.",
+  "kafelek_kariera_en": "The financial and insurance sector, e.g. as an actuary or a risk specialist.",
+  "zrodla": [
+    "https://www.math.uni.wroc.pl/matematyka (sekcja „Specjalności”, opiekun, formularze C2/C3)",
+    "https://www.math.uni.wroc.pl/specjalnosci-0 (opiekunowie specjalności)",
+    "/pliki/studia/przewodnik-mt-lic.pdf (wersja z 25.09.2026; rozdz. II–XI, Tabele 2b, 3b, 4b, 6b, 7, 8, 12, 14)",
+    "/pliki/studia/przewodnik-mt-mgr.pdf (wersja z 25.09.2026; rozdz. I, Tabele 1–4, 8, 9)",
+    "/pliki/studia/stary-program-mt-mgr.pdf (przedmioty obowiązkowe i polecane dla MAF w starym programie II stopnia)",
+    "/pliki/studia/zmiany2026.pdf (zasady przejścia na nowy program)",
+    "/pliki/studia/mgr21-af-zakres.pdf (zakres egzaminu magisterskiego MAF)",
+    "/pliki/studia/tem6.pdf (2022) oraz https://www.math.uni.wroc.pl/sites/default/files/tem7.pdf (2024) — listy tematów prac dyplomowych Komisji Prac Dyplomowych",
+    "https://www.math.uni.wroc.pl/news/wyniki-konkursu-na-najlepsza-prace-dyplomowa-1 (wyniki konkursu na najlepszą pracę dyplomową, 01.12.2024)",
+    "https://www.math.uni.wroc.pl/oferty-pracy (oferty pracy i staży, 2014–2026)",
+    "https://www.math.uni.wroc.pl/news/seminarium-firmy-allianz (Allianz Seminar Cycle, 25.09.2021)",
+    "https://www.math.uni.wroc.pl/news/credit-suisse-quantitative-modelling-academy (14.02.2020)",
+    "https://www.math.uni.wroc.pl/news/prezentacja-studencka-z-inzynierii-finansowej-pt-delta-i-gamma-hedging (22.11.2017)",
+    "Uchwała Senatu UWr nr 48/2026 — program studiów od 2026/27, s. 4 (sylwetka absolwenta, uzasadnienie programu)",
+    "USOSweb UWr, katalog przedmiotów — opisy i efekty uczenia się przedmiotów 28-MT-S-t123, -tRPrawd2R, -oRPrawd1R, -tWMatUbezp, -TAnStoch, -TWProcStoch, -tWDSymMMC, -tMUZnew, -tInzFinan, -tMUMIO, -LBazDan, -LPr2Py, -TStatystyk",
+    "Nowa strona — src/content/zaklady/teoria-prawdopodobienstwa.md, src/content/seminaria/prawdopodobienstwo.md, src/content/granty/ (2010-n-201-525638, 2014-2013-09-d-st1-03698, 2016-2015-19-d-st1-01182, 2022-2022-06-x-hs4-01698)"
+  ],
+  "do_uzupelnienia": [
+    "Opisy przedmiotów: Przegląd aktuarialno-finansowy, Wstęp do inżynierii finansowej, Podstawy statystyki, Topologia, Miara i całka, Wstęp do kombinatoryki, Data Science i AI w bankowości — brak opisu w USOS, a sylabusy w uchwale 48/2026 nie były dostępne do odczytu (BIP blokuje pobieranie); uzupełnić 1-zdaniowe opisy.",
+    "Egzaminy aktuarialne (KNF) i ewentualne uprawnienia — źródła Instytutu nic o tym nie mówią; dopisać tylko, jeśli Instytut chce to potwierdzić.",
+    "Tematy prac — wybrane według tematyki z ogólnych list tematów (tem6.pdf, 2022; tem7.pdf, 2024) i wyników konkursu 2024, nie z listy przypisanej do specjalności; potwierdzić aktualność. W programie od 2026/27 na I stopniu nie ma pracy licencjackiej.",
+    "Zakres egzaminu magisterskiego (mgr21-af-zakres.pdf) — „obowiązuje studentów studiujących wg programu z 1 X 2019 bądź późniejszego”; potwierdzić, że dotyczy także programu od 2026/27.",
+    "Przedmioty polecane do wyboru dla MAF w nowym programie — przewodnik ich nie wskazuje; w grupie „do wyboru” są przedmioty z oferty o tematyce finansowej i polecane w starym programie. Opiekun mógłby wskazać aktualne rekomendacje.",
+    "Angielskie nazwy przedmiotów — tłumaczenie robocze; sprawdzić z oficjalnymi nazwami w USOS.",
+    "Koło naukowe — brak źródła wiążącego któreś z działających kół (KNMT, KNZM) z tą specjalnością; dawne Koło Naukowe Probabilistyki i Statystyki Matematycznej — sprawdzić, czy działa.",
+    "Informacje o liczbie studentów / wielkości grup — brak w źródłach."
+  ]
+}
